@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\瑞嘉軟體\eight_queen\eight_queen\bin\Debug\eight_queen.exe.config
+C:\Users\User\Desktop\瑞嘉軟體\eight_queen\eight_queen\bin\Debug\eight_queen.exe
+C:\Users\User\Desktop\瑞嘉軟體\eight_queen\eight_queen\bin\Debug\eight_queen.pdb
+C:\Users\User\Desktop\瑞嘉軟體\eight_queen\eight_queen\obj\Debug\eight_queen.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\瑞嘉軟體\eight_queen\eight_queen\obj\Debug\eight_queen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\瑞嘉軟體\eight_queen\eight_queen\obj\Debug\eight_queen.exe
+C:\Users\User\Desktop\瑞嘉軟體\eight_queen\eight_queen\obj\Debug\eight_queen.pdb
